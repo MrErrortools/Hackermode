@@ -146,7 +146,7 @@ The script will minify the source code, recompile native dependencies and create
 If you're interested in running the latest in-development version but don't want to compile source code yourself, you can can get pre-built nightly binaries on [GitHub Actions](https://github.com/GitSquared/edex-ui/actions): click the latest commits, and download the artifacts bundle for your OS.
 
 ## Credits
-eDEX-UI's source code was primarily written by me, [Squared](https://github.com/GitSquared). If you want to get in touch with me or find other projects I'm involved in, check out [my website](https://gaby.dev).
+eDEX-UI's source code was primarily written by me, [Squared](https://github.com/GitSquared). If you want to get in touch with me or find other projects I'm involved in, Buy coffee [BTC] : bc1qtqtydrsz6getcdyd5ulva05tr0c2elahrx75uu   [USDT] : TThyXRPx4tLo2ycNGBbCcTLz1n3yE5XdcV 
 
 [PixelyIon](https://github.com/PixelyIon) helped me get started with Windows compatibility and offered some precious advice when I started to work on this project seriously.
 
